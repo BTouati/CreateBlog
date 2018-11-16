@@ -3,6 +3,7 @@
   'list-group-item-success': loveIts>0,
   'list-group-item-danger': loveIts<0 }">
    <h3>{{title}}</h3>
+   <p>Le {{created_at | date:'short'}}</p>
     <p>{{content}}</p>
     <button class="btn btn-success" (click)="LovePlus()">love it</button>
     <button class="btn btn-danger" (click)="LoveMinus()">Don't love it</button>

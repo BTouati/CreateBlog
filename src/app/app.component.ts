@@ -17,25 +17,25 @@ export class AppComponent {
 
 Posts=
 [
-  { title: 'post1',
+  { title: 'Post 1',
     content: "Longtemps, je me suis couché de bonne heure. Parfois, à peine ma bougie éteinte, mes yeux se fermaient si vite que je n’avais pas le temps de me dire : « Je m’endors. » Et, une demi-heure après, la pensée qu’il était temps de chercher le sommeil m’éveillait ;",
     loveIts: 0,
     created_at: new Date()
 
   },
-  { title: 'post2',
+  { title: 'Post 2',
     content: "Longtemps, je me suis couché de bonne heure. Parfois, à peine ma bougie éteinte, mes yeux se fermaient si vite que je n’avais pas le temps de me dire : « Je m’endors. » Et, une demi-heure après, la pensée qu’il était temps de chercher le sommeil m’éveillait ;",
     loveIts: 0,
     created_at: new Date()
 
   },
-  { title: 'post3',
+  { title: 'Post 3',
     content: "Longtemps, je me suis couché de bonne heure. Parfois, à peine ma bougie éteinte, mes yeux se fermaient si vite que je n’avais pas le temps de me dire : « Je m’endors. » Et, une demi-heure après, la pensée qu’il était temps de chercher le sommeil m’éveillait ;",
     loveIts: 0,
     created_at: new Date()
 
   },
-  { title: 'post4',
+  { title: 'Post 4',
     content: "Longtemps, je me suis couché de bonne heure. Parfois, à peine ma bougie éteinte, mes yeux se fermaient si vite que je n’avais pas le temps de me dire : « Je m’endors. » Et, une demi-heure après, la pensée qu’il était temps de chercher le sommeil m’éveillait ;",
     loveIts: 0,
     created_at: new Date()
